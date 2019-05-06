@@ -1,0 +1,73 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+D3         SOD523                 567mil        560mil        567mil        560mil    596.528mil        560mil  B        180.00 1N5819 0603    
+D2         SOD523                 674mil        560mil        674mil        560mil    703.528mil        560mil  B        180.00 1N5819 0603    
+R14        R0402                 2030mil        398mil       2030mil        398mil   2015.858mil    412.142mil  T        315.00 0R             
+R13        R0402             2030.047mil    426.811mil   2030.047mil    426.811mil   2015.905mil    412.669mil  T         45.00 0R             
+J2         I-PEX_SOCKET          2060mil    311.512mil       2060mil        281mil       2060mil    342.024mil  T        180.00 ipex           
+R12        R0402                 1235mil        275mil       1235mil        275mil       1235mil        295mil  T        270.00 5.1K           
+DS4        LED0402               1235mil        354mil       1235mil        354mil       1235mil        374mil  T        270.00 BLUE           
+C9         C0402                 1913mil        314mil       1913mil        314mil       1893mil        314mil  T        360.00 10nF           
+C10        C0402                 1845mil        288mil       1845mil        288mil       1845mil        268mil  T         90.00 3nF            
+C18        C0402                 1724mil        140mil       1724mil        140mil       1744mil        140mil  T        180.00 15pF           
+U3         QFN40P600X600X100-48N       1537mil        350mil       1537mil        350mil   1682.458mil    372.967mil  T        225.00 ESP32          
+U4         WSON-SPIFLASH          963mil        350mil        963mil        350mil    814.811mil        425mil  T        360.00 W25Q32         
+R10        R0402                  492mil        251mil        492mil        251mil        492mil        231mil  T         90.00 5.1K           
+R7         R0402                  687mil        251mil        687mil        251mil        687mil        271mil  T        270.00 5.1K           
+R6         R0402                  429mil        162mil        429mil        162mil        429mil        142mil  T         90.00 5.1K           
+R5         R0402                  687mil        339mil        687mil        339mil        687mil        319mil  T         90.00 5.1K           
+Q1         SOT23                  586mil        178mil        586mil        178mil    623.402mil     224.26mil  T        180.00 9014           
+R2         R0402                 1906mil    568.021mil       1906mil    568.021mil       1926mil    568.021mil  T        180.00 5.1K           
+DS1        LED0402               2280mil        650mil       2280mil        650mil       2260mil        650mil  T        360.00 BLUE           
+X1         XTAL3225              1850mil      175.5mil       1850mil        176mil    1895.67mil     210.93mil  T        360.00 40MHz-3225     
+U2         SOT23-5                410mil        517mil        410mil        517mil     370.63mil    554.402mil  T        360.00 MIC5219-3.3    
+C27        C0402                 1577mil        132mil       1577mil        132mil       1557mil        132mil  T        360.00 0.1uF          
+C26        C0402                 1317mil        241mil       1317mil        241mil   1302.858mil    226.858mil  T         45.00 0.1uF          
+C25        C0402                 1310mil        521mil       1310mil        521mil       1290mil        521mil  T        360.00 0.1uF          
+C24        C0402                 1310mil        568mil       1310mil        568mil       1290mil        568mil  T        360.00 15pF           
+C23        C0402                 1180mil    353.937mil       1180mil    353.937mil       1180mil    373.937mil  T        270.00 0.1uF          
+C22        C0402                 1557mil        568mil       1557mil        568mil       1577mil        568mil  T        180.00 15pF           
+C21        C0402                 1712mil        568mil       1712mil        568mil       1732mil        568mil  T        180.00 270pF          
+C20        C0402                 1890mil        432mil       1890mil        432mil       1890mil        452mil  T        270.00 2.4pF          
+C19        C0402                 1810mil    568.042mil       1810mil    568.042mil       1790mil    568.042mil  T        360.00 270pF          
+C13        C0402                 1700mil        502mil       1700mil        502mil   1717.321mil        512mil  T        210.00 1uF            
+C16        C0402                 1825mil        412mil       1825mil        412mil       1845mil        412mil  T        180.00 6.9pF          
+C15        C0402                 1724mil    267.959mil       1724mil    267.959mil       1744mil    267.959mil  T        180.00 100pF          
+C14        C0402                 1724mil        181mil       1724mil        181mil       1744mil        181mil  T        180.00 0.1uF          
+C11        C0402             1697.054mil    443.677mil   1697.054mil    443.677mil   1711.196mil    457.819mil  T        225.00 100pF          
+C5         C0402                  524mil        479mil        524mil        479mil        504mil        479mil  T        360.00 470pF          
+C4         C0402                  524mil        554mil        524mil        554mil        544mil        554mil  T        180.00 0.1uF          
+C2         C0603                  282mil        555mil        282mil        555mil    252.472mil        555mil  T        360.00 4.7uF          
+A1         2.4G                2212.5mil    513.942mil       2210mil        573mil     2212.5mil      472.6mil  T        270.00 WIFIÌìÏß         
+L1         L0402                 1760mil        432mil       1760mil        432mil       1760mil        452mil  T        270.00 1.6nH          
+R1         R0402                  380mil        162mil        380mil        162mil        380mil        142mil  T         90.00 1K             
+XT1        Y3215                 1434mil        557mil       1434mil        557mil   1384.787mil        557mil  T        360.00 32.768K-3215   
+U1         QFN24                  357mil        317mil        357mil        317mil     278.26mil     366.21mil  T        360.00 CP2104         
+C6         C0402                 1749mil        349mil       1749mil        349mil       1749mil        329mil  T         90.00 100pF          
+C17        C0402                 1913mil        268mil       1913mil        268mil       1893mil        268mil  T        360.00 15pF           
+R9         R0402                 1798mil        288mil       1798mil        288mil       1798mil        268mil  T         90.00 20K            
+J1         MICROUSB           111.415mil     349.99mil         95mil        350mil     165.09mil     401.17mil  T        270.00 MK5P microUSB  
+P1         HDR1X20-M2            1228mil         50mil        278mil         50mil        278mil         50mil  T        360.00 Header 20      
+P2         HDR1X20-M2            1228mil        650mil        278mil        650mil        278mil        650mil  T        360.00 Header 20      
+S1         MINIBUTTON          115.77mil     109.92mil        116mil        110mil     200.42mil     109.92mil  T        180.00 SW-BUTTON      
+S2         MINIBUTTON          115.77mil     589.92mil        116mil        590mil     200.42mil     589.92mil  T        180.00 SW-BUTTON      
+C3         C0402              332.219mil        162mil    332.219mil        162mil    332.219mil        142mil  T         90.00 1uF            
+DS2        LED0402                627mil        530mil        627mil        530mil        627mil        550mil  T        270.00 YELLOW         
+DS3        LED0402                704mil        530mil        704mil        530mil        704mil        550mil  T        270.00 GREEN          
+R3         R0402                  627mil        436mil        627mil        436mil        627mil        416mil  T         90.00 5.1K           
+R4         R0402                  704mil        436mil        704mil        436mil        704mil        416mil  T         90.00 5.1K           
+C7         C0603                 1300mil    350.937mil       1300mil    350.937mil       1300mil    321.409mil  T         90.00 4.7uF          
+C1         C0402              284.021mil        162mil    284.021mil        162mil    284.021mil        182mil  T        270.00 1uF            
+Q2         SOT23                  586mil        322mil        586mil        322mil    548.598mil     275.74mil  T          0.00 9014           
+C8         C0402                 1812mil        361mil       1812mil        361mil       1832mil        361mil  T        180.00 0.1uF          
+C28        C0402                 1657mil        403mil       1657mil        403mil   1642.858mil    388.858mil  B         45.00 0.1uF          
+C12        C0402                 1697mil      367.5mil       1697mil      367.5mil       1677mil      367.5mil  B        360.00 0.1uF          
+M1         ZY_UR-3X2            -1622mil      -1250mil       1943mil        513mil      -1622mil      -1250mil  B        180.00 mark           
+C29        C0402                  249mil        510mil        249mil        510mil        229mil        510mil  B        360.00 0.1uF          
+D1         SOD523                 282mil        479mil        282mil        479mil    252.472mil        479mil  T        360.00 1N5819 0603    
+P3         PH1.25-T           599.913mil        350mil        657mil        350mil        657mil    374.606mil  B         90.00 BATT           
+R8         R0402                  332mil        162mil        332mil        162mil        332mil        142mil  B         90.00 5.1K           
+R11        R0402                  249mil        554mil        249mil        554mil        269mil        554mil  B        180.00 3.3K           
+T1         SOT23                  151mil        512mil        151mil        512mil    113.599mil     558.26mil  B        360.00 AO3401         
+U5         SOT23-5                361mil        517mil        361mil        517mil     400.37mil    554.402mil  B        180.00 LTC4054        
+
